@@ -407,11 +407,11 @@ html {
     }
     
     .search {
-        display: none;
         width: 29vw;
         height: 19px;
         border: 1px solid white;
-        font-size: 7px;
+        font-size: 6.5px;
+        border-radius: 5px;
     }
     
     .push {
